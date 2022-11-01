@@ -1,0 +1,4 @@
+1. console will output 3 because after 3 iterations of the for loop it will fail. After the last iteration, i = 3 and the for loop fails so outside of it 3 is printed out.
+2. Console will print out 150 since after the last iteration of the for loop discounted price would equal price[2] * (1-0.5). Price[2] is equal to 300 in the list thus resulting in 150.
+3. Console will print out 150 since after the last iteration for loop discounted price would equal price[2] * (1-0.5). finalPrice would just be that result, 150 since multiplying by 100 and then dividing by 100 would result in the same exact answer.
+4. 
