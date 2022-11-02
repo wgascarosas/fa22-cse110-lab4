@@ -29,4 +29,7 @@
     E) false since true maps to 1 and 1 does not equal 2
     F) true since boolean(2) is equal to true
 15. == checks for equality thriugh type conversion while === does not.
-16. 
+16. code in part2-question16.js
+17. [2,4,6] is returned. The for loop calls the callback funcrion on each element in [1,2,3] then it pushes the returned value. This return value is twice the number that was originally passed in.
+18. code in part2-question18.js
+19. the program would output 1 4 3 2 vertically.
